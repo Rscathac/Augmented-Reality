@@ -58,4 +58,4 @@
 
 ### Result
 
-![Screen Shot 2020-05-06 at 3.41.17 PM](/Users/Ingram/Desktop/Screen Shot 2020-05-06 at 3.41.17 PM.png)
+![Result](Result.png)
